@@ -6,6 +6,6 @@
   Auf dieser Seite bündeln wir unsere Projekte, Ideen und Entwicklungen.  
 </p>
 
-<div align="center" style="background-color:#6FAD97; padding: 40px; border-radius: 12px;">
-  <img src="https://1qhealth.de/_layout/logo.png" alt="1Q Health Logo" width="300">
-</div>
+<p align="center">
+  <img src="[https://DEINE-URL/logo-mit-hintergrund.png](https://raw.githubusercontent.com/1qhealth/.github/refs/heads/main/profile/1qhealth_logo.svg)" alt="logo" width="300">
+</p>
