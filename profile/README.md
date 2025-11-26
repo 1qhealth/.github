@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/1qhealth/.github/main/profile/1qhealth_logo.svg" alt="logo" width="300">
+  <img src="https://raw.githubusercontent.com/1qhealth/.github/main/profile/1qhealth.png" alt="logo" width="300">
 </p>
