@@ -7,5 +7,5 @@
 </p>
 
 <div align="center" style="background-color:#6FAD97; padding: 40px; border-radius: 12px;">
-  <img src="[https://DEINE-LOGO-URL.de/logo.png](https://1qhealth.de/_layout/logo.png)" alt="1Q Health Logo" width="300">
+  <img src="https://1qhealth.de/_layout/logo.png" alt="1Q Health Logo" width="300">
 </div>
